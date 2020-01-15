@@ -8,7 +8,7 @@ int main()
 {
 	setlocale(LC_ALL, "ru");
 
-	int x1, x2, x3, y1, y2, y3;
+	double x1, x2, x3, y1, y2, y3;
 	double a, b, c, s,p,s2;
 	cout << "Стороны x1,x2,x3,y1,y2,y3:" << endl;
 	cin >> x1; cin >> x2; cin >> x3; cin >> y1; cin >> y2; cin >> y3;
